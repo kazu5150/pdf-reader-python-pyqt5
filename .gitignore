@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.venv
+venv.bak/
+*.egg-info/
+dist/
+build/
+*.egg
+*.so
+*.lib
+*.dll
+*.a
+*.obj
+*.o
+*.lo
+*.la
+*.al
+libs/
+site-packges/
+*.slo
+*.suo
+*.bak
+*.swp
+*.swo
+*.pyc
+*.pyo
+*.rej
+*~
+# Directories
+.ipynb_checkpoints/
+.idea/
+.vscode/
+__pycache__/
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
